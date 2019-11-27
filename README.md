@@ -25,3 +25,4 @@ To get these scripts ready for use:
 4) provide sequences in curated_sequence folder (suggest use SangerCuratorV0.py, though not dependent on this)
   
 # MCC-lab-IgblastTools
+# MCC-lab-IgblastTools
